@@ -16,7 +16,8 @@ possible uses of the (very) modular components.
 However, sometimes you don't want to spend any time on configuration.
 For such cases, you could use this repo.
 
-An alternative convention is layout-flat, which is in it's own repo.
+An alternative convention is [layout-flat](https://github.com/makesite/framework-flat),
+which is in it's own repo.
 
 Usage
 -----
