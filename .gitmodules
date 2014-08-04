@@ -1,0 +1,12 @@
+[submodule "submodules/domtempl"]
+	path = submodules/domtempl
+	url = https://github.com/makesite/domtempl.git
+[submodule "submodules/qry"]
+	path = submodules/qry
+	url = https://github.com/makesite/qry.git
+[submodule "submodules/pdb"]
+	path = submodules/pdb
+	url = https://github.com/makesite/pdb.git
+[submodule "submodules/varcore"]
+	path = submodules/varcore
+	url = https://github.com/makesite/varcore.git
